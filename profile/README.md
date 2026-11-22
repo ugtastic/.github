@@ -21,4 +21,6 @@ UGtastic captured the informal conversations, hallway dialogues, and pivotal tra
 Founded, conducted, and curated by **[Mike Hall (@just3ws)](https://github.com/just3ws)** — Principal Software Engineer and oral historian.
 
 🌐 **Explore the Interactive Archive:** [just3ws.com](https://www.just3ws.com)  
-📺 **YouTube Channel Archive:** [UGtastic on YouTube](https://www.youtube.com/@just3ws)
+📺 **YouTube Channel:** [Mike Hall (`@just3ws-mike`)](https://www.youtube.com/@just3ws-mike) (the UGtastic / WHOIS Tech Community interview archive, formerly `@whoistechcmty`)  
+🎬 **Playlists:** [UGtastic Marginalia](https://www.youtube.com/playlist?list=PLCun5kLIQkSQ) · [The Sound Above](https://www.youtube.com/playlist?list=PLVcmLmfz2uyA)  
+❤️ **Support:** [Patreon](https://www.patreon.com/c/just3ws) · [GitHub Sponsors](https://github.com/sponsors/just3ws)
